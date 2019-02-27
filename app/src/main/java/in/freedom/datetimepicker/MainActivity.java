@@ -15,11 +15,8 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-
     String time;
-
     EditText edtDate;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
